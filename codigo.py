@@ -1,5 +1,5 @@
 
-nombre = "Marcos Roman"
+nombre = "Marco"
 apellido = "Fernandez"
 
 
